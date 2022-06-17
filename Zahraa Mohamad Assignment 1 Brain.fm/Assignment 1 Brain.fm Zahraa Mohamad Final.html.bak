@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+			<title>Brain.fm (Zahraa Mohamad's Version)</title>
+			
+			<link rel= "stylesheet" type= "text/css" href="./Assignment Brain.fm Zahraa Mohamad.css"/>
+	
+</head>
+	
+<body>
+
+	<!--This project is going to be divided into 4 parts vertically-->
+	<div class="container">
+	<!--Section 1 starts-->
+	
+	<!--Here is the first section which will also be divided into the logo to the left 
+	The sign up and try for free button will be to the far right of the page.-->
+				<div class = "section-1">
+			
+				<div style="flex-grow: 80; ">
+		
+		<img src="./logo.png" style="width: 110px;"/>
+			
+				</div>
+			
+				<div style="flex-grow: 4;padding-top:5px;" >
+					
+		<a href="" >Sign in</a>
+			
+				</div>
+			
+				<div style="flex-grow: 16;" >
+		
+		<input type= "button" value="Try for free" />
+				
+				</div>
+			
+				</div>
+			
+			
+	<!--Section 1 ends-->
+	
+	
+	
+	
+	
+			
+	<!--Section 2 Starts-->
+	
+	<!--Here is the Second section which will be divided into Section-2a and Section-2b. 
+	Section-2a will include one title, a mini-title, short paragraph, 
+	the image that is at the bottom of the text and a button to try 5 free sessions.
+	Section-2b will only include one image which should take more space than Section-2a.-->
+				
+				<div class="section-2">
+
+	<!--Section 2a Starts-->		
+	
+				<div class = "section-2a" >
+				<div>
+	
+		<p class= "headline-1" >Functional Music to Improve</p>
+					
+		<p class= "headline-2">Focus in 15 Minutes</p>
+					
+		<p class="headline-3">Our science-first approach creates music that sounds different-and affects your brain differently-than any other music.</p>
+				</div>
+				<div>
+				
+		<img src="./clout.png" style="width: 80%; margin-top: 10px;"/>
+				
+				</div>
+					
+				<div style="height: 100%; margin: 35px 0px; ">		
+			
+		
+		<button style="FONT-WEIGHT: bold; border: 30px; background-color: ORANGE; color: #FFFFFF;width:150px;border-radius: 35px;height: 100%; padding:0px; margin:0px">Try 5 free<br />sessions</button>
+					
+				</div>
+			
+				</div>
+				
+	<!--Section 2a ends-->
+		
+	<!--Section 2b starts-->	
+				
+				<div class="section-2b" >
+				<div>
+
+		<img src="./picture-1.gif" style="  width: 100%; height:375px;"/>
+					
+
+	<!--Section 2b ends-->	
+		</div>
+	<!--Section 2 ends-->
+		</div>	
+		</div>
+		
+	
+	
+	
+	
+
+	<!--Section 3 Starts-->
+	
+	<!--Section-3 is a very quick and easy sentence that is in the middle of the page.-->
+				
+				<div class= "section-3 ">
+			
+				<div>
+				
+		<p class="headline-4">Wanna see the science?</p>
+			
+				</div>
+			
+	<!--Section 3 ends-->
+			
+				</div>
+	
+			
+			
+			
+	<!--Section 4 Starts-->
+		
+	<!--Section 4 will also consist of two mini-sections and they are quite similiar.
+	They will both have an image on the top then a headline and paragraph statement.
+	The only difference is that Section-4a will have a link at the bottom to see more content.-->
+				
+				<div class= "section-4"  >
+			
+	<!--Section 4.1 Starts-->
+			
+			
+				<div class="section-4a"   >
+			
+				<div>
+
+		<img src="./picture-2.gif" style="  width: 350px; height:165px;" />
+					
+				<div/>
+				<div>
+		<p class="headline-6">Patented Technology</p>
+		
+		<p class="studya";>Brain.fm holds patents on key processes for creating functional
+		music, including technology to elicit strong neural phase
+		locking-allowing populations of neurons to engage in various
+		kinds of coordinated activity-and technology to remove
+		distraction in sound.
+		<br></br>
+		This makes our music unique, purpose-built to steer you into a
+		desired mental state. In other words, we've found new ways to
+		create music that helps you do what you need to do.</p>
+
+				</div>
+				<div>
+					
+		<a href="" style="font-weight:bold; font-size: 15px; color:white; ">Explore more of our science</a>
+			
+				</div>
+				</div>
+				</div>
+				
+	<!--Section 4.1 ends-->
+			
+	<!--Section 4.2 Starts-->
+			
+				<div class="section-4b"  >
+			
+				<div>
+				
+		<img src="./picture-3.png" style=" margin-left:40px; width: 270px; height:150px;"/>
+					
+				<div>
+		<p class="headline-6">Tested on Brain and Behavior</p>
+		
+		<p class="studyb">Scientists at Brain.fm work with collaborators at academic
+		institutions to run experiments.
+		<br></br>
+		We look at the effects of our technology on the brain, using
+		FMRI and EEG, and also run large-scale behavioral tests,
+		measuring performance on simple games.
+		<br></br>
+		Our experiments always include a control condition ('placebo')
+		of the same underlying music without Brain.fm technology
+		applied, so we can be sure our tech is what makes the
+		difference.</p>
+
+				</div>
+			
+	<!--Section 4.2 ends-->
+		
+	<!--Section 4 ends-->
+	
+				</div>
+				</div>
+				</div>
